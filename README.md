@@ -9,7 +9,7 @@ Demo on <bullg.it/css-fixer>
 include the `css-fixer.css` on your page like regularly
 
 ```html
-<link rel="stylesheet" href="path/to/css-fixer.css" />
+<link rel="stylesheet" href="path/to/css-fixer.min.css" />
 ```
 
 and see the awesome css you've created
