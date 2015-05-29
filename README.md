@@ -2,7 +2,7 @@
 
 This will fix all css layout problems you could have.
 
-Demo on <bullg.it/css-fixer>
+Demo on [bullg.it/css-fixer](http://bullg.it/css-fixer)
 
 ## Usage
 
