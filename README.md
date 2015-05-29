@@ -6,7 +6,7 @@ Demo on [bullg.it/css-fixer](http://bullg.it/css-fixer)
 
 ## Usage
 
-include the `css-fixer.css` on your page like regularly
+include the `css-fixer.css` on your page like regularly after your own stylesheet.
 
 ```html
 <link rel="stylesheet" href="path/to/css-fixer.min.css" />
